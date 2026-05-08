@@ -7,6 +7,7 @@ template = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="RS6TpVLLV5g-UKrvaPKZu7KkNL72dJxblzBxSvZUynU" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title} Salary Guide in {location} - 1KP1KB</title>
     <style>
@@ -78,6 +79,7 @@ index_template = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="google-site-verification" content="RS6TpVLLV5g-UKrvaPKZu7KkNL72dJxblzBxSvZUynU" />
     <title>AI Job Directory - 1KP1KB</title>
     <style>
         body {{ font-family: sans-serif; padding: 40px; max-width: 800px; margin: 0 auto; }}
