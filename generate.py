@@ -57,7 +57,7 @@ if not os.path.exists('jobs'):
 with open('data.csv', mode='r', encoding='utf-8') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        filename = f"jobs/{{row['job_id']}}.html"
+        filename = f"jobs/{row['job_id']}.html"
         content = template.format(
             title=row['job_title'],
             location=row['company_location'],
