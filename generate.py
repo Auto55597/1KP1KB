@@ -109,3 +109,22 @@ with open('list.html', 'w', encoding='utf-8') as f:
     f.write(index_template.format(links=all_links))
 
 print("Directory list.html created!")
+
+# ส่วนสร้าง Sitemap.xml (เพิ่มต่อท้าย list.html)
+sitemap_template = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{urls}
+</urlset>
+"""
+
+urls = "<url><loc>https://auto55597.github.io/1kp1kb/list.html</loc></url>\n"
+with open('data.csv', mode='r', encoding='utf-8') as file:
+    file.seek(0)
+    reader = csv.DictReader(file)
+    for row in reader:
+        urls += f"<url><loc>https://auto55597.github.io/1kp1kb/jobs/{row['job_id']}.html</loc></url>\n"
+
+with open('sitemap.xml', 'w', encoding='utf-8') as f:
+    f.write(sitemap_template.format(urls=urls))
+
+print("Sitemap.xml created successfully!")
