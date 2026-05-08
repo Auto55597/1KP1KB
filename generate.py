@@ -69,3 +69,43 @@ with open('data.csv', mode='r', encoding='utf-8') as file:
         with open(filename, 'w', encoding='utf-8') as f:
             f.write(content)
 print("Successfully upgraded to article version!")
+
+# ส่วนท้ายของไฟล์ generate.py (เพิ่มต่อจากเดิม)
+
+# สร้างหน้าสารบัญ (Index of Jobs)
+index_template = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Job Directory - 1KP1KB</title>
+    <style>
+        body {{ font-family: sans-serif; padding: 40px; max-width: 800px; margin: 0 auto; }}
+        h1 {{ color: #10b981; }}
+        .job-link {{ display: block; padding: 10px; border-bottom: 1px solid #eee; text-decoration: none; color: #333; }}
+        .job-link:hover {{ background: #f0f0f0; }}
+    </style>
+</head>
+<body>
+    <h1>AI Job Salary Directory (Batch 1)</h1>
+    <div id="links">
+        {links}
+    </div>
+</body>
+</html>
+"""
+
+all_links = ""
+# อ่านข้อมูลอีกรอบเพื่อสร้างลิงก์
+with open('data.csv', mode='r', encoding='utf-8') as file:
+    file.seek(0) # กลับไปเริ่มอ่านใหม่
+    reader = csv.DictReader(file)
+    for row in reader:
+        # สร้างแท็ก <a> สำหรับแต่ละงาน
+        all_links += f'<a class="job-link" href="jobs/{row["job_id"]}.html">{row["job_title"]} in {row["company_location"]}</a>\n'
+
+# บันทึกเป็นไฟล์ list.html
+with open('list.html', 'w', encoding='utf-8') as f:
+    f.write(index_template.format(links=all_links))
+
+print("Directory list.html created!")
