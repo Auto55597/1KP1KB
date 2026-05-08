@@ -1,0 +1,101 @@
+job_id,job_title,salary_usd,salary_currency,experience_level,employment_type,company_location,company_size,employee_residence,remote_ratio,required_skills,education_required,years_experience,industry,posting_date,application_deadline,job_description_length,benefits_score,company_name
+AI00001,AI Research Scientist,90376,USD,SE,CT,China,M,China,50,"Tableau, PyTorch, Kubernetes, Linux, NLP",Bachelor,9,Automotive,2024-10-18,2024-11-07,1076,5.9,Smart Analytics
+AI00002,AI Software Engineer,61895,USD,EN,CT,Canada,M,Ireland,100,"Deep Learning, AWS, Mathematics, Python, Docker",Master,1,Media,2024-11-20,2025-01-11,1268,5.2,TechCorp Inc
+AI00003,AI Specialist,152626,USD,MI,FL,Switzerland,L,South Korea,0,"Kubernetes, Deep Learning, Java, Hadoop, NLP",Associate,2,Education,2025-03-18,2025-04-07,1974,9.4,Autonomous Tech
+AI00004,NLP Engineer,80215,USD,SE,FL,India,M,India,50,"Scala, SQL, Linux, Python",PhD,7,Consulting,2024-12-23,2025-02-24,1345,8.6,Future Systems
+AI00005,AI Consultant,54624,EUR,EN,PT,France,S,Singapore,100,"MLOps, Java, Tableau, Python",Master,0,Media,2025-04-15,2025-06-23,1989,6.6,Advanced Robotics
+AI00006,AI Architect,123574,EUR,SE,CT,Germany,M,Germany,50,"Data Visualization, R, SQL, Linux",Associate,7,Healthcare,2024-08-31,2024-10-04,819,5.9,Neural Networks Co
+AI00007,Principal Data Scientist,79670,GBP,MI,FL,United Kingdom,S,United Kingdom,0,"R, Docker, MLOps",Associate,3,Gaming,2024-12-29,2025-02-28,1936,6.3,DataVision Ltd
+AI00008,NLP Engineer,70640,EUR,EN,FL,France,L,France,0,"Python, SQL, Computer Vision, Java, Azure",Master,0,Healthcare,2024-06-07,2024-07-01,1286,7.6,Cloud AI Solutions
+AI00009,Data Analyst,160710,USD,SE,CT,Singapore,L,Singapore,0,"Hadoop, Git, Mathematics, Python",PhD,7,Government,2024-11-04,2024-11-24,551,9.3,Quantum Computing Inc
+AI00010,AI Software Engineer,102557,USD,SE,PT,Austria,M,Austria,0,"MLOps, GCP, Scala, Azure, Linux",Master,5,Government,2024-10-20,2024-11-06,2340,5.8,Cloud AI Solutions
+AI00011,Autonomous Systems Engineer,102322,USD,SE,PT,Sweden,M,Sweden,100,"MLOps, Python, SQL",Associate,8,Telecommunications,2025-01-29,2025-03-05,1047,9.9,Smart Analytics
+AI00012,AI Architect,115047,USD,EX,CT,South Korea,S,South Korea,0,"R, Data Visualization, Python, Azure",Master,15,Manufacturing,2024-07-16,2024-08-19,513,6.8,TechCorp Inc
+AI00013,AI Consultant,124355,EUR,SE,CT,France,M,France,100,"Tableau, Python, TensorFlow",PhD,5,Automotive,2024-12-29,2025-01-27,760,5.2,Predictive Systems
+AI00014,Autonomous Systems Engineer,68760,USD,EN,CT,Norway,S,Norway,0,"Scala, SQL, Statistics",Master,0,Energy,2024-02-11,2024-02-25,1657,9.1,Cloud AI Solutions
+AI00015,AI Research Scientist,150122,USD,SE,FT,Sweden,M,Sweden,100,"PyTorch, Python, Data Visualization, GCP",Associate,6,Technology,2024-10-02,2024-11-26,1466,9.8,Advanced Robotics
+AI00016,AI Product Manager,78846,GBP,EN,PT,United Kingdom,L,Israel,0,"Linux, Statistics, Deep Learning",PhD,0,Consulting,2024-09-28,2024-10-26,2059,9.6,DataVision Ltd
+AI00017,Principal Data Scientist,59823,USD,EN,FT,India,L,India,100,"Tableau, NLP, Spark",Bachelor,1,Real Estate,2025-02-06,2025-03-26,1200,5.8,Predictive Systems
+AI00018,Machine Learning Engineer,181139,EUR,EX,CT,France,L,France,100,"MLOps, PyTorch, Azure",Associate,15,Real Estate,2024-04-24,2024-06-03,2142,8.7,AI Innovations
+AI00019,Data Engineer,155300,USD,SE,CT,Singapore,M,Singapore,0,"Git, Hadoop, R, Python, Spark",Associate,9,Finance,2024-04-30,2024-05-29,589,8.6,Algorithmic Solutions
+AI00020,Research Scientist,93851,EUR,MI,PT,Netherlands,L,Germany,100,"Java, Scala, NLP, Docker, Computer Vision",PhD,4,Transportation,2024-05-01,2024-07-02,1809,6.7,AI Innovations
+AI00021,Data Engineer,134197,USD,MI,FT,Norway,M,France,0,"Deep Learning, AWS, Azure",Bachelor,3,Telecommunications,2024-06-21,2024-08-28,969,9.6,AI Innovations
+AI00022,Autonomous Systems Engineer,102550,USD,MI,PT,United States,M,United States,0,"Tableau, Spark, NLP, TensorFlow, PyTorch",Bachelor,2,Automotive,2024-04-23,2024-06-23,625,10,Cognitive Computing
+AI00023,ML Ops Engineer,99382,EUR,SE,CT,Germany,S,Germany,0,"Hadoop, Git, Tableau",PhD,7,Automotive,2025-03-13,2025-05-11,1629,6.9,Quantum Computing Inc
+AI00024,AI Product Manager,52167,USD,MI,FT,Austria,M,Ireland,100,"Git, Hadoop, Docker",Master,4,Telecommunications,2024-06-07,2024-06-24,2298,9.3,Cloud AI Solutions
+AI00025,ML Ops Engineer,53923,USD,MI,FT,China,S,China,0,"AWS, Azure, Git, SQL, Computer Vision",Bachelor,2,Healthcare,2024-10-27,2024-11-18,1006,7.4,AI Innovations
+AI00026,Robotics Engineer,109779,USD,SE,PT,Israel,L,Israel,100,"Linux, Git, Tableau, Kubernetes, Data Visualization",PhD,6,Government,2024-08-01,2024-10-02,1146,8.8,DataVision Ltd
+AI00027,ML Ops Engineer,80979,USD,MI,CT,Australia,S,India,50,"Hadoop, Linux, Git, Scala",Master,2,Media,2024-11-18,2025-01-18,2109,7.7,TechCorp Inc
+AI00028,Data Analyst,52997,USD,MI,PT,Austria,M,Singapore,0,"Mathematics, Kubernetes, TensorFlow, Tableau, PyTorch",PhD,2,Government,2025-01-10,2025-02-20,2101,8.6,Predictive Systems
+AI00029,Head of AI,42819,USD,EN,CT,Ireland,M,Ireland,50,"Python, Scala, NLP, Mathematics, Git",PhD,0,Healthcare,2024-10-08,2024-11-20,2187,8.6,Cognitive Computing
+AI00030,ML Ops Engineer,82083,USD,MI,CT,Israel,L,Israel,100,"Azure, Python, Computer Vision, Kubernetes, TensorFlow",Master,2,Retail,2024-01-18,2024-02-25,1212,6.3,Future Systems
+AI00031,Head of AI,67488,EUR,EN,FT,Netherlands,M,Netherlands,100,"Deep Learning, GCP, AWS, Linux, Tableau",Master,1,Retail,2024-05-16,2024-07-26,887,6,Advanced Robotics
+AI00032,Research Scientist,68624,USD,EN,FT,Denmark,M,Denmark,0,"Azure, Python, Spark",Master,1,Real Estate,2024-01-31,2024-03-08,1910,9.2,Cloud AI Solutions
+AI00033,Robotics Engineer,146852,USD,SE,FT,Switzerland,S,Switzerland,50,"NLP, Scala, Python",PhD,7,Real Estate,2024-08-28,2024-09-20,684,5.3,Cognitive Computing
+AI00034,ML Ops Engineer,178183,USD,EX,FL,Finland,M,Finland,0,"Tableau, Azure, GCP, Linux, Python",Associate,16,Education,2024-03-01,2024-03-19,1850,5.7,Predictive Systems
+AI00035,Deep Learning Engineer,150864,USD,SE,FL,Sweden,L,Singapore,0,"R, GCP, MLOps, Linux",PhD,8,Consulting,2024-10-26,2024-12-25,1504,7.9,Smart Analytics
+AI00036,Head of AI,126942,USD,EX,CT,Finland,L,Netherlands,0,"Git, Hadoop, Data Visualization",Associate,10,Finance,2024-01-31,2024-02-26,1261,9.9,Autonomous Tech
+AI00037,AI Architect,53752,USD,MI,PT,Japan,M,Japan,100,"Data Visualization, Tableau, AWS, Mathematics, Python",Associate,2,Telecommunications,2024-10-17,2024-11-12,998,6.1,TechCorp Inc
+AI00038,Robotics Engineer,111381,USD,EX,CT,Israel,S,Israel,0,"Linux, PyTorch, SQL, Statistics",Master,18,Government,2024-01-14,2024-03-12,1030,8.1,Autonomous Tech
+AI00039,AI Specialist,41430,USD,EN,PT,China,M,China,50,"Tableau, Docker, GCP",Bachelor,1,Healthcare,2024-06-15,2024-07-29,2323,8,Future Systems
+AI00040,Data Engineer,166080,EUR,EX,FL,Netherlands,L,Netherlands,100,"Computer Vision, Azure, Tableau",Associate,15,Government,2024-03-01,2024-05-01,831,5.1,DeepTech Ventures
+AI00041,Data Scientist,96956,USD,MI,FT,United States,M,China,0,"Data Visualization, Azure, Spark, MLOps",Bachelor,2,Telecommunications,2024-02-24,2024-03-09,761,5.3,DataVision Ltd
+AI00042,AI Architect,196954,USD,SE,FL,United States,L,United States,50,"Java, Mathematics, SQL",Bachelor,8,Finance,2025-03-17,2025-04-16,2290,7.5,DataVision Ltd
+AI00043,AI Specialist,56745,USD,EN,PT,Finland,L,Finland,100,"Spark, Mathematics, GCP",Associate,1,Telecommunications,2025-02-01,2025-04-11,502,5.5,Quantum Computing Inc
+AI00044,Machine Learning Researcher,113455,USD,SE,FT,Singapore,M,Singapore,50,"Hadoop, Docker, Python, Azure",Associate,8,Retail,2024-04-24,2024-06-12,1281,8,AI Innovations
+AI00045,ML Ops Engineer,158808,EUR,SE,PT,Netherlands,M,Netherlands,50,"Docker, R, Linux",Bachelor,5,Media,2025-03-03,2025-05-03,1926,7.4,Future Systems
+AI00046,AI Research Scientist,174663,USD,SE,CT,United States,M,Singapore,50,"Data Visualization, Statistics, R",Associate,7,Media,2024-01-10,2024-03-22,1151,5.4,DeepTech Ventures
+AI00047,AI Research Scientist,46753,USD,EN,CT,India,S,India,50,"Scala, Java, Tableau",PhD,1,Manufacturing,2024-11-16,2024-12-18,2012,9.7,Quantum Computing Inc
+AI00048,AI Software Engineer,69020,USD,MI,FL,China,L,China,0,"Java, Azure, GCP",Bachelor,4,Energy,2024-09-05,2024-10-25,1584,8.8,TechCorp Inc
+AI00049,AI Specialist,288815,USD,EX,PT,Switzerland,S,Switzerland,0,"Deep Learning, Git, Data Visualization, Linux, Java",Bachelor,12,Manufacturing,2024-08-08,2024-09-23,1930,7.2,Cognitive Computing
+AI00050,AI Consultant,124871,USD,EX,FL,Austria,M,Finland,50,"Hadoop, AWS, Linux, Docker, Statistics",PhD,19,Media,2025-03-10,2025-05-17,1556,8,Autonomous Tech
+AI00051,AI Architect,70391,EUR,MI,FT,Germany,S,Germany,0,"Deep Learning, SQL, Mathematics",PhD,4,Government,2024-08-16,2024-10-19,1974,9.2,TechCorp Inc
+AI00052,Research Scientist,115376,USD,EX,FT,India,M,India,100,"Linux, R, Azure, Mathematics, Git",Master,17,Technology,2024-03-12,2024-04-14,2028,5.5,Autonomous Tech
+AI00053,Research Scientist,106579,USD,MI,PT,United States,S,United States,100,"Docker, Tableau, Mathematics",Associate,3,Gaming,2024-02-24,2024-05-02,2028,5.4,Cognitive Computing
+AI00054,Data Scientist,135230,USD,SE,PT,Norway,S,Norway,100,"R, PyTorch, Kubernetes, Computer Vision",PhD,8,Consulting,2024-07-07,2024-09-09,1219,7.5,DataVision Ltd
+AI00055,Research Scientist,67607,USD,MI,PT,Israel,S,Israel,50,"Python, Tableau, TensorFlow, AWS",Master,4,Media,2024-08-05,2024-08-26,1714,8.6,Quantum Computing Inc
+AI00056,AI Architect,88470,USD,MI,PT,Canada,L,Canada,0,"Azure, Kubernetes, TensorFlow, Statistics, Spark",Associate,3,Real Estate,2024-07-29,2024-09-27,1528,9.1,Autonomous Tech
+AI00057,Autonomous Systems Engineer,79863,USD,MI,FL,India,L,India,100,"Python, Docker, GCP, Scala",Associate,4,Automotive,2024-09-28,2024-10-26,1325,5.6,Autonomous Tech
+AI00058,Machine Learning Engineer,60299,USD,EN,PT,Israel,L,Israel,100,"Git, Linux, Python, TensorFlow, Mathematics",PhD,0,Finance,2025-03-22,2025-05-01,1872,6.6,Advanced Robotics
+AI00059,Machine Learning Engineer,85645,EUR,MI,FT,Germany,M,Germany,0,"PyTorch, Computer Vision, R",Associate,4,Transportation,2024-02-09,2024-03-06,793,7.9,AI Innovations
+AI00060,AI Software Engineer,110222,GBP,SE,FL,United Kingdom,S,France,0,"R, Spark, AWS",Associate,8,Media,2024-03-20,2024-05-05,1945,9,TechCorp Inc
+AI00061,Data Scientist,49365,USD,EN,FT,China,M,China,0,"Tableau, NLP, Azure, Statistics, PyTorch",Associate,1,Finance,2024-06-22,2024-08-14,1907,10,Predictive Systems
+AI00062,Data Scientist,162296,USD,SE,PT,Norway,S,Norway,50,"TensorFlow, Azure, Computer Vision, Data Visualization",Bachelor,6,Finance,2024-06-05,2024-07-01,1714,6.2,Neural Networks Co
+AI00063,AI Consultant,102382,USD,MI,PT,Switzerland,M,Switzerland,0,"TensorFlow, Scala, Docker, Statistics",PhD,3,Education,2024-03-23,2024-06-03,2199,5.8,Smart Analytics
+AI00064,AI Software Engineer,99972,USD,MI,PT,Australia,M,Canada,50,"Java, R, Deep Learning, NLP, Azure",PhD,4,Technology,2024-02-20,2024-03-15,799,6.5,Cloud AI Solutions
+AI00065,Data Engineer,64129,USD,EN,CT,South Korea,L,South Korea,0,"Java, Git, Deep Learning",Bachelor,0,Manufacturing,2024-12-15,2025-02-11,909,7.1,Machine Intelligence Group
+AI00066,AI Specialist,87938,USD,SE,FT,Ireland,S,Ireland,100,"Mathematics, Spark, Python, AWS",PhD,8,Education,2024-12-15,2025-02-12,508,8.1,Machine Intelligence Group
+AI00067,Autonomous Systems Engineer,71405,USD,MI,FL,Israel,L,Israel,0,"SQL, Java, MLOps, Linux, PyTorch",Associate,4,Retail,2024-09-01,2024-10-29,1153,9.5,Advanced Robotics
+AI00068,Machine Learning Engineer,316182,USD,EX,PT,Denmark,M,Canada,0,"Python, Scala, Statistics, Git",Associate,12,Finance,2025-02-09,2025-02-23,2452,7,Digital Transformation LLC
+AI00069,Machine Learning Researcher,72459,EUR,EN,PT,Germany,M,Germany,100,"Hadoop, Python, Kubernetes, Azure",Bachelor,0,Gaming,2024-08-30,2024-09-15,583,9.6,Quantum Computing Inc
+AI00070,Principal Data Scientist,78338,EUR,MI,FT,France,L,France,100,"MLOps, Kubernetes, Git, Python",Associate,3,Technology,2024-10-31,2024-12-15,548,8.7,Cognitive Computing
+AI00071,NLP Engineer,51907,USD,MI,FL,Israel,M,Singapore,100,"AWS, Kubernetes, Azure",Bachelor,4,Healthcare,2024-02-14,2024-04-02,912,8.2,Neural Networks Co
+AI00072,Autonomous Systems Engineer,122831,EUR,SE,FL,France,S,France,100,"PyTorch, Kubernetes, Git, SQL",Master,7,Real Estate,2024-05-31,2024-06-19,761,8.4,Algorithmic Solutions
+AI00073,Machine Learning Researcher,124820,USD,MI,FL,Norway,S,Norway,50,"NLP, Azure, Statistics, Spark, Mathematics",Associate,3,Real Estate,2024-08-02,2024-10-01,2077,9.9,Cognitive Computing
+AI00074,Autonomous Systems Engineer,134200,GBP,SE,PT,United Kingdom,S,United Kingdom,50,"Linux, R, Tableau",PhD,9,Retail,2024-11-29,2025-01-09,2396,7.8,Machine Intelligence Group
+AI00075,Data Engineer,51920,USD,EN,PT,Sweden,S,Finland,100,"Scala, R, Tableau, Data Visualization",PhD,0,Consulting,2025-04-08,2025-05-13,1778,7.9,Digital Transformation LLC
+AI00076,Data Engineer,56427,USD,EN,FL,Singapore,M,Singapore,100,"Mathematics, Kubernetes, Spark",Master,0,Energy,2024-11-16,2025-01-25,1366,5.2,DeepTech Ventures
+AI00077,AI Product Manager,213783,USD,EX,FT,Canada,S,Canada,100,"Kubernetes, Spark, Statistics, Scala",Bachelor,16,Energy,2024-09-19,2024-10-06,2383,9.2,Quantum Computing Inc
+AI00078,ML Ops Engineer,59728,USD,MI,FL,Israel,M,Israel,50,"MLOps, SQL, Statistics",Associate,2,Finance,2024-06-10,2024-08-13,1350,7.5,DataVision Ltd
+AI00079,Computer Vision Engineer,119432,USD,SE,CT,India,L,India,0,"Scala, MLOps, NLP",PhD,6,Technology,2024-04-20,2024-06-08,1008,6.3,Autonomous Tech
+AI00080,AI Research Scientist,284486,USD,EX,CT,United States,M,United States,0,"PyTorch, Linux, SQL",Master,12,Consulting,2025-02-13,2025-03-10,2231,7,TechCorp Inc
+AI00081,Data Analyst,157597,EUR,EX,CT,France,L,France,50,"Git, Kubernetes, TensorFlow, R, Java",Bachelor,17,Manufacturing,2024-08-31,2024-09-15,639,8.4,Neural Networks Co
+AI00082,ML Ops Engineer,196942,USD,EX,CT,Australia,L,Australia,100,"R, Tableau, SQL, MLOps, Docker",Master,19,Gaming,2024-04-01,2024-04-16,826,7.5,TechCorp Inc
+AI00083,Machine Learning Researcher,207548,USD,EX,CT,Canada,M,Canada,0,"NLP, Azure, Spark, Data Visualization",PhD,10,Energy,2024-02-05,2024-03-11,2292,6.7,Cognitive Computing
+AI00084,NLP Engineer,68838,USD,MI,FL,Sweden,S,Sweden,50,"Java, SQL, Spark, Tableau, Azure",PhD,3,Automotive,2024-06-20,2024-08-12,804,7.4,TechCorp Inc
+AI00085,ML Ops Engineer,125666,USD,EX,FL,Finland,L,Finland,100,"Docker, Python, Git, Kubernetes, Java",PhD,13,Telecommunications,2024-06-19,2024-08-22,757,8.4,TechCorp Inc
+AI00086,NLP Engineer,73174,USD,EN,FT,Denmark,M,Denmark,50,"Git, MLOps, Hadoop, Python, Spark",Associate,0,Finance,2024-07-14,2024-09-08,678,6.4,Machine Intelligence Group
+AI00087,Autonomous Systems Engineer,33314,USD,EN,CT,Israel,S,India,50,"SQL, Kubernetes, Docker",Bachelor,0,Manufacturing,2025-04-16,2025-06-15,1207,8.3,Future Systems
+AI00088,AI Specialist,69914,USD,EN,FT,United States,S,United States,100,"R, NLP, SQL, GCP",Associate,0,Transportation,2025-02-15,2025-04-15,1517,7,Smart Analytics
+AI00089,Principal Data Scientist,152118,EUR,EX,FL,France,M,France,50,"Spark, SQL, Python, Mathematics, Linux",Master,11,Automotive,2024-05-20,2024-07-14,1294,6.9,AI Innovations
+AI00090,AI Software Engineer,78014,EUR,EN,CT,France,L,France,50,"PyTorch, Hadoop, Scala, Computer Vision",PhD,0,Real Estate,2024-11-19,2024-12-07,841,6.8,Digital Transformation LLC
+AI00091,Research Scientist,48466,USD,EN,PT,Canada,S,Canada,100,"Hadoop, Spark, Kubernetes, Python",Bachelor,0,Automotive,2025-03-10,2025-05-14,1146,5.7,Predictive Systems
+AI00092,Data Analyst,97997,EUR,SE,CT,France,S,France,50,"Hadoop, Python, TensorFlow, R, Statistics",PhD,8,Technology,2024-06-19,2024-07-16,2419,6,Algorithmic Solutions
+AI00093,Principal Data Scientist,128341,USD,SE,FL,Singapore,S,Singapore,0,"Computer Vision, PyTorch, GCP, Linux",Bachelor,9,Finance,2025-04-26,2025-06-15,2457,6.9,Neural Networks Co
+AI00094,AI Research Scientist,111528,USD,MI,FL,United States,L,United States,0,"Java, Hadoop, Mathematics",PhD,3,Real Estate,2024-03-01,2024-05-08,1299,9.5,Predictive Systems
+AI00095,Machine Learning Researcher,138945,USD,EX,PT,Canada,S,Canada,50,"Linux, R, NLP, PyTorch, Git",Master,19,Education,2024-07-10,2024-09-15,1559,8.9,DeepTech Ventures
+AI00096,NLP Engineer,98688,USD,SE,FT,Israel,M,Israel,50,"Statistics, Python, TensorFlow, PyTorch, Git",Bachelor,8,Manufacturing,2024-04-10,2024-05-03,598,8.6,Cognitive Computing
+AI00097,Data Analyst,109029,EUR,SE,FT,France,S,France,0,"Kubernetes, Scala, Java",Bachelor,6,Technology,2025-04-05,2025-06-13,2049,6.1,Predictive Systems
+AI00098,NLP Engineer,84797,USD,MI,FT,Canada,M,Canada,0,"Deep Learning, Statistics, Computer Vision, TensorFlow, Mathematics",Master,4,Real Estate,2024-12-04,2025-01-03,1909,6.2,Machine Intelligence Group
+AI00099,Machine Learning Researcher,290199,USD,EX,CT,Switzerland,L,Denmark,50,"Python, AWS, Kubernetes, Deep Learning",Master,12,Retail,2025-01-12,2025-03-07,1137,5.6,Smart Analytics
+AI00100,AI Research Scientist,195691,USD,SE,CT,United States,L,United States,0,"AWS, Kubernetes, Docker, Mathematics, MLOps",PhD,8,Transportation,2024-04-20,2024-06-22,916,8.7,Advanced Robotics
